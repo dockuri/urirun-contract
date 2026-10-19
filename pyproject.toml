@@ -33,7 +33,7 @@ dev = ["pytest>=7", "radon", "jsonschema", "build", "twine",
 
 [project.urls]
 Homepage   = "https://urirun.com"
-Repository = "https://github.com/if-uri/urirun-contract"
+Repository = "https://github.com/dockuri/urirun-contract"
 
 [tool.setuptools.packages.find]
 include = ["urirun_contract*"]
